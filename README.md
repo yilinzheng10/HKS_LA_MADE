@@ -21,14 +21,19 @@ This repository is a current, centralized documentation, setup procedures, and w
 
 Each machine includes:
 
-* 01_Hardware documentation
-* 02_Setup guides
-* 03_Example/Starter files
-* 04_Advanced workflows
+* 01_Hardware_Documentation
+* 02_Setup_Guides
+* 03_Example_Files
+* 04_Advanced_Workflows
 
 ## License
 
-* Code: MIT License
+Unless otherwise noted:
+* Original scripts and automation in this repository are licensed under the MIT License.
+* Original written documentation in docs/ and machines/**/README.md is licensed under CC BY 4.0.
+* Third-party manuals, photos, trademarks, vendor CAD, and sample files remain under their original licenses and are not relicensed by this repository.
+* See THIRD_PARTY_NOTICES.md for source URLs, access dates, and redistribution status.
+
 
 ## Contribution
 
