@@ -22,8 +22,7 @@ This folder documents safe startup, basic machine setup, posted-code workflow, e
 
 ## Recommended design and CAM formats
 
-- Preferred design interchange: DXF
 - Preferred unit interchange: inches
-- 3D component import: STL
+- 3D component import: .3dm
+- See 03_Example_Files for layer set up
 - CAM platforms supported by Laguna resources/posts: Fusion 360, RhinoCAM / VisualCAM, VCarve, Aspire
-- Machine execution format: posted NC / G-code for the Laguna SmartShop 3 + Fanuc control
